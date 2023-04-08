@@ -29,6 +29,7 @@ form {
     display: flex;
     flex-direction: column;
     gap: 25px;
+    margin-top:70px;
     padding: 50px;
     align-items: center;
     justify-content: center;
